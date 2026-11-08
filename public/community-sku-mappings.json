@@ -1,0 +1,79 @@
+[
+  {
+    "match_keys": ["117584", "eggs 30units", "eggs 30 units", "fresh eggs 30ct"],
+    "merchant_hint": "Costco",
+    "standardized_name": "Large Eggs, 30 Count",
+    "candidates": [
+      { "brand": "Maritime Pride / Burnbrae", "parent_corporation": "Burnbrae Farms Ltd.", "ticker": null, "share_pct": 85, "gross_margin_pct": 22, "net_margin_pct": 5 },
+      { "brand": "Gray Ridge Eggs", "parent_corporation": "LH Gray & Son Ltd.", "ticker": null, "share_pct": 15, "gross_margin_pct": 20, "net_margin_pct": 4 }
+    ]
+  },
+  {
+    "match_keys": ["1331520", "2% milk jug", "2 percent milk jug", "2% milk"],
+    "merchant_hint": "Costco",
+    "standardized_name": "2% Milk",
+    "candidates": [
+      { "brand": "Agropur", "parent_corporation": "Agropur Cooperative", "ticker": null, "share_pct": 60, "gross_margin_pct": 20, "net_margin_pct": 3 },
+      { "brand": "Saputo", "parent_corporation": "Saputo Inc.", "ticker": "SAP.TO", "share_pct": 40, "gross_margin_pct": 9.8, "net_margin_pct": 2.1 }
+    ]
+  },
+  {
+    "match_keys": ["214203", "ambrosia app", "ambrosia apple", "ambrosia apples"],
+    "merchant_hint": "ANY",
+    "standardized_name": "Ambrosia Apples",
+    "candidates": [
+      { "brand": "Scotian Gold", "parent_corporation": "Scotian Gold Cooperative", "ticker": null, "share_pct": 65, "gross_margin_pct": 18, "net_margin_pct": 4 },
+      { "brand": "Oppy", "parent_corporation": "The Oppenheimer Group", "ticker": null, "share_pct": 35, "gross_margin_pct": 15, "net_margin_pct": 3 }
+    ]
+  },
+  {
+    "match_keys": ["549137", "seaweed sald", "seaweed salad"],
+    "merchant_hint": "Costco",
+    "standardized_name": "Seaweed Salad",
+    "candidates": [
+      { "brand": "Kirkland Signature", "parent_corporation": "Costco Wholesale Corporation", "ticker": "COST", "share_pct": 100, "gross_margin_pct": 20, "net_margin_pct": 4 }
+    ]
+  },
+  {
+    "match_keys": ["2025773", "sticky corn", "sweet sticky corn"],
+    "merchant_hint": "Costco",
+    "standardized_name": "Sticky Corn",
+    "candidates": [
+      { "brand": "Costco produce supplier (not disclosed)", "parent_corporation": "Independent / Unmapped Agribusiness", "ticker": null, "share_pct": 100, "gross_margin_pct": 12, "net_margin_pct": 3 }
+    ]
+  },
+  {
+    "match_keys": ["grape tomatoes", "tomatoes grape"],
+    "merchant_hint": "ANY",
+    "standardized_name": "Grape Tomatoes",
+    "candidates": []
+  },
+  {
+    "match_keys": ["bananas", "banana"],
+    "merchant_hint": "ANY",
+    "standardized_name": "Bananas",
+    "candidates": []
+  },
+  {
+    "match_keys": ["cucumbers", "cucumber"],
+    "merchant_hint": "ANY",
+    "standardized_name": "Cucumbers",
+    "candidates": []
+  },
+  {
+    "match_keys": ["rivaj naan", "naan rivaj"],
+    "merchant_hint": "ANY",
+    "standardized_name": "Rivaj Naan",
+    "candidates": [
+      { "brand": "Rivaj", "parent_corporation": "Rivaj Foods", "ticker": null, "share_pct": 100, "gross_margin_pct": 20, "net_margin_pct": 4 }
+    ]
+  },
+  {
+    "match_keys": ["kirkland signature"],
+    "merchant_hint": "Costco",
+    "standardized_name": "Kirkland Signature Item",
+    "candidates": [
+      { "brand": "Kirkland Signature", "parent_corporation": "Costco Wholesale Corporation", "ticker": "COST", "share_pct": 100, "gross_margin_pct": 20, "net_margin_pct": 4 }
+    ]
+  }
+]

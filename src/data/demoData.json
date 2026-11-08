@@ -1,0 +1,140 @@
+[
+  {
+    "bill_id": "demo-costco-2026-09",
+    "date": "2026-09-06",
+    "bill_type": "retail",
+    "merchant": { "name": "Costco Wholesale", "ticker": "COST", "channel": "Warehouse Club" },
+    "summary": { "subtotal": 68.44, "tax": 0, "total": 68.44 },
+    "items": [
+      { "name": "Large Eggs 30ct", "standardized_name": "Large Eggs 30ct", "brand": "Burnbrae Farms", "parent_corporation": "Burnbrae Farms Ltd.", "quantity": 1, "unit_price": 11.99, "total_price": 11.99 },
+      { "name": "Grape Tomatoes", "standardized_name": "Grape Tomatoes", "brand": "Fresh Produce", "parent_corporation": "Independent / Unmapped Agribusiness", "quantity": 1, "unit_price": 5.99, "total_price": 5.99 },
+      { "name": "Strip Loin Steak", "standardized_name": "Strip Loin Steak", "brand": "Fresh Meat", "parent_corporation": "Cargill, Inc.", "quantity": 1, "unit_price": 25.99, "total_price": 25.99 },
+      { "name": "Bananas", "standardized_name": "Bananas", "brand": "Fresh Produce", "parent_corporation": "Independent / Unmapped Agribusiness", "quantity": 1, "unit_price": 2.49, "total_price": 2.49 },
+      { "name": "Kirkland Signature Purified Water 40-pack", "standardized_name": "Kirkland Signature Purified Water 40-pack", "brand": "Kirkland Signature", "parent_corporation": "Costco Wholesale Corporation", "ticker": "COST", "quantity": 1, "unit_price": 4.99, "total_price": 4.99 },
+      { "name": "Kirkland Signature Extra Virgin Olive Oil 2L", "standardized_name": "Kirkland Signature Extra Virgin Olive Oil 2L", "brand": "Kirkland Signature", "parent_corporation": "Costco Wholesale Corporation", "ticker": "COST", "quantity": 1, "unit_price": 16.99, "total_price": 16.99 }
+    ]
+  },
+  {
+    "bill_id": "demo-superstore-2026-09",
+    "date": "2026-09-18",
+    "bill_type": "retail",
+    "merchant": { "name": "Real Canadian Superstore", "ticker": "L.TO", "channel": "Grocery" },
+    "summary": { "subtotal": 48.74, "tax": 0, "total": 48.74 },
+    "items": [
+      { "name": "Tide Pods 42ct", "standardized_name": "Tide Pods 42ct", "brand": "Tide", "parent_corporation": "The Procter & Gamble Company", "ticker": "PG", "quantity": 1, "unit_price": 18.99, "total_price": 18.99 },
+      { "name": "Oikos Greek Yogurt 4-pack", "standardized_name": "Oikos Greek Yogurt 4-pack", "brand": "Oikos", "parent_corporation": "Danone S.A.", "ticker": "BN.PA", "quantity": 1, "unit_price": 6.49, "total_price": 6.49 },
+      { "name": "Doritos Nacho Cheese 235g", "standardized_name": "Doritos Nacho Cheese 235g", "brand": "Doritos", "parent_corporation": "PepsiCo, Inc.", "ticker": "PEP", "quantity": 1, "unit_price": 4.99, "total_price": 4.99 },
+      { "name": "Coca-Cola Zero Sugar 12-pack", "standardized_name": "Coca-Cola Zero Sugar 12-pack", "brand": "Coca-Cola", "parent_corporation": "The Coca-Cola Company", "ticker": "KO", "quantity": 1, "unit_price": 7.49, "total_price": 7.49 },
+      { "name": "Palmolive Ultra Dish Liquid 591ml", "standardized_name": "Palmolive Ultra Dish Liquid 591ml", "brand": "Palmolive", "parent_corporation": "Colgate-Palmolive Company", "ticker": "CL", "quantity": 1, "unit_price": 4.29, "total_price": 4.29 },
+      { "name": "Dawn Ultra Dish Soap 532ml", "standardized_name": "Dawn Ultra Dish Soap 532ml", "brand": "Dawn", "parent_corporation": "The Procter & Gamble Company", "ticker": "PG", "quantity": 1, "unit_price": 6.49, "total_price": 6.49 }
+    ]
+  },
+  {
+    "bill_id": "demo-utilities-2026-09",
+    "date": "2026-09-20",
+    "bill_type": "utility",
+    "merchant": { "name": "Household Power and Internet", "channel": "Utilities" },
+    "summary": { "subtotal": 76.00, "tax": 3.80, "total": 79.80 },
+    "items": [
+      { "name": "Electricity Usage", "standardized_name": "Electricity Usage", "brand": "Hydro One", "parent_corporation": "Hydro One Limited", "ticker": "H.TO", "quantity": 1, "unit_price": 31.00, "total_price": 31.00 },
+      { "name": "Electricity Delivery Charge", "standardized_name": "Electricity Delivery Charge", "brand": "Hydro One", "parent_corporation": "Hydro One Limited", "ticker": "H.TO", "quantity": 1, "unit_price": 12.00, "total_price": 12.00 },
+      { "name": "Home Internet Service", "standardized_name": "Home Internet Service", "brand": "Bell", "parent_corporation": "BCE Inc.", "ticker": "BCE.TO", "quantity": 1, "unit_price": 33.00, "total_price": 33.00 }
+    ]
+  },
+  {
+    "bill_id": "demo-walmart-2026-10",
+    "date": "2026-10-04",
+    "bill_type": "retail",
+    "merchant": { "name": "Walmart", "ticker": "WMT", "channel": "Mass Retail" },
+    "summary": { "subtotal": 51.94, "tax": 0, "total": 51.94 },
+    "items": [
+      { "name": "Tide Pods 42ct", "standardized_name": "Tide Pods 42ct", "brand": "Tide", "parent_corporation": "The Procter & Gamble Company", "ticker": "PG", "quantity": 1, "unit_price": 20.49, "total_price": 20.49 },
+      { "name": "Oikos Greek Yogurt 4-pack", "standardized_name": "Oikos Greek Yogurt 4-pack", "brand": "Oikos", "parent_corporation": "Danone S.A.", "ticker": "BN.PA", "quantity": 1, "unit_price": 6.99, "total_price": 6.99 },
+      { "name": "Quaker Old Fashioned Oats 1kg", "standardized_name": "Quaker Old Fashioned Oats 1kg", "brand": "Quaker", "parent_corporation": "PepsiCo, Inc.", "ticker": "PEP", "quantity": 1, "unit_price": 5.49, "total_price": 5.49 },
+      { "name": "Febreze Fabric Refresher 800ml", "standardized_name": "Febreze Fabric Refresher 800ml", "brand": "Febreze", "parent_corporation": "The Procter & Gamble Company", "ticker": "PG", "quantity": 1, "unit_price": 6.99, "total_price": 6.99 },
+      { "name": "Dove Beauty Bar 4-pack", "standardized_name": "Dove Beauty Bar 4-pack", "brand": "Dove", "parent_corporation": "Unilever PLC", "ticker": "UL", "quantity": 1, "unit_price": 7.49, "total_price": 7.49 },
+      { "name": "Fuze Tea Lemon 1.89L", "standardized_name": "Fuze Tea Lemon 1.89L", "brand": "Fuze Tea", "parent_corporation": "The Coca-Cola Company", "ticker": "KO", "quantity": 1, "unit_price": 4.49, "total_price": 4.49 }
+    ]
+  },
+  {
+    "bill_id": "demo-costco-2026-10",
+    "date": "2026-10-11",
+    "bill_type": "retail",
+    "merchant": { "name": "Costco Wholesale", "ticker": "COST", "channel": "Warehouse Club" },
+    "summary": { "subtotal": 67.44, "tax": 0, "total": 67.44 },
+    "items": [
+      { "name": "Large Eggs 30ct", "standardized_name": "Large Eggs 30ct", "brand": "Burnbrae Farms", "parent_corporation": "Burnbrae Farms Ltd.", "quantity": 1, "unit_price": 12.99, "total_price": 12.99 },
+      { "name": "Grape Tomatoes", "standardized_name": "Grape Tomatoes", "brand": "Fresh Produce", "parent_corporation": "Independent / Unmapped Agribusiness", "quantity": 1, "unit_price": 6.49, "total_price": 6.49 },
+      { "name": "Strip Loin Steak", "standardized_name": "Strip Loin Steak", "brand": "Fresh Meat", "parent_corporation": "Cargill, Inc.", "quantity": 1, "unit_price": 28.99, "total_price": 28.99 },
+      { "name": "Rotisserie Chicken", "standardized_name": "Rotisserie Chicken", "brand": "Kirkland Signature", "parent_corporation": "Costco Wholesale Corporation", "ticker": "COST", "quantity": 1, "unit_price": 7.99, "total_price": 7.99 },
+      { "name": "Avocados 5-pack", "standardized_name": "Avocados 5-pack", "brand": "Fresh Produce", "parent_corporation": "Independent / Unmapped Agribusiness", "quantity": 1, "unit_price": 4.99, "total_price": 4.99 },
+      { "name": "Heinz Tomato Ketchup 1L", "standardized_name": "Heinz Tomato Ketchup 1L", "brand": "Heinz", "parent_corporation": "The Kraft Heinz Company", "ticker": "KHC", "quantity": 1, "unit_price": 5.99, "total_price": 5.99 }
+    ]
+  },
+  {
+    "bill_id": "demo-superstore-2026-10",
+    "date": "2026-10-19",
+    "bill_type": "retail",
+    "merchant": { "name": "Real Canadian Superstore", "ticker": "L.TO", "channel": "Grocery" },
+    "summary": { "subtotal": 30.45, "tax": 0, "total": 30.45 },
+    "items": [
+      { "name": "2% Milk Jug 2L", "standardized_name": "2% Milk Jug", "brand": "Agropur", "parent_corporation": "Agropur Cooperative", "quantity": 1, "unit_price": 6.49, "total_price": 6.49 },
+      { "name": "Ambrosia Apples 3lb", "standardized_name": "Ambrosia Apples", "brand": "Fresh Produce", "parent_corporation": "Independent / Unmapped Agribusiness", "quantity": 1, "unit_price": 6.99, "total_price": 6.99 },
+      { "name": "Silk Unsweetened Soy Beverage 1.89L", "standardized_name": "Silk Soy Beverage 1.89L", "brand": "Silk", "parent_corporation": "Danone S.A.", "ticker": "BN.PA", "quantity": 1, "unit_price": 5.49, "total_price": 5.49 },
+      { "name": "Oreo Original Cookies 303g", "standardized_name": "Oreo Original Cookies 303g", "brand": "Oreo", "parent_corporation": "Mondelēz International, Inc.", "ticker": "MDLZ", "quantity": 1, "unit_price": 5.99, "total_price": 5.99 },
+      { "name": "Christie Premium Plus Crackers 450g", "standardized_name": "Christie Premium Plus Crackers 450g", "brand": "Christie", "parent_corporation": "Mondelēz International, Inc.", "ticker": "MDLZ", "quantity": 1, "unit_price": 5.49, "total_price": 5.49 }
+    ]
+  },
+  {
+    "bill_id": "demo-utilities-2026-10",
+    "date": "2026-10-20",
+    "bill_type": "utility",
+    "merchant": { "name": "Household Power and Internet", "channel": "Utilities" },
+    "summary": { "subtotal": 78.00, "tax": 3.90, "total": 81.90 },
+    "items": [
+      { "name": "Electricity Usage", "standardized_name": "Electricity Usage", "brand": "Hydro One", "parent_corporation": "Hydro One Limited", "ticker": "H.TO", "quantity": 1, "unit_price": 33.00, "total_price": 33.00 },
+      { "name": "Electricity Delivery Charge", "standardized_name": "Electricity Delivery Charge", "brand": "Hydro One", "parent_corporation": "Hydro One Limited", "ticker": "H.TO", "quantity": 1, "unit_price": 12.00, "total_price": 12.00 },
+      { "name": "Home Internet Service", "standardized_name": "Home Internet Service", "brand": "Bell", "parent_corporation": "BCE Inc.", "ticker": "BCE.TO", "quantity": 1, "unit_price": 33.00, "total_price": 33.00 }
+    ]
+  },
+  {
+    "bill_id": "demo-walmart-2026-11",
+    "date": "2026-11-03",
+    "bill_type": "retail",
+    "merchant": { "name": "Walmart", "ticker": "WMT", "channel": "Mass Retail" },
+    "summary": { "subtotal": 47.25, "tax": 0, "total": 47.25 },
+    "items": [
+      { "name": "Tide Pods 42ct", "standardized_name": "Tide Pods 42ct", "brand": "Tide", "parent_corporation": "The Procter & Gamble Company", "ticker": "PG", "quantity": 1, "unit_price": 21.99, "total_price": 21.99 },
+      { "name": "Oikos Greek Yogurt 4-pack", "standardized_name": "Oikos Greek Yogurt 4-pack", "brand": "Oikos", "parent_corporation": "Danone S.A.", "ticker": "BN.PA", "quantity": 1, "unit_price": 7.49, "total_price": 7.49 },
+      { "name": "Doritos Nacho Cheese 235g", "standardized_name": "Doritos Nacho Cheese 235g", "brand": "Doritos", "parent_corporation": "PepsiCo, Inc.", "ticker": "PEP", "quantity": 1, "unit_price": 5.49, "total_price": 5.49 },
+      { "name": "Hellmann's Real Mayonnaise 890ml", "standardized_name": "Hellmann's Real Mayonnaise 890ml", "brand": "Hellmann's", "parent_corporation": "Unilever PLC", "ticker": "UL", "quantity": 1, "unit_price": 7.49, "total_price": 7.49 },
+      { "name": "Palmolive Ultra Dish Liquid 591ml", "standardized_name": "Palmolive Ultra Dish Liquid 591ml", "brand": "Palmolive", "parent_corporation": "Colgate-Palmolive Company", "ticker": "CL", "quantity": 1, "unit_price": 4.79, "total_price": 4.79 }
+    ]
+  },
+  {
+    "bill_id": "demo-superstore-2026-11",
+    "date": "2026-11-17",
+    "bill_type": "retail",
+    "merchant": { "name": "Real Canadian Superstore", "ticker": "L.TO", "channel": "Grocery" },
+    "summary": { "subtotal": 65.45, "tax": 0, "total": 65.45 },
+    "items": [
+      { "name": "Large Eggs 30ct", "standardized_name": "Large Eggs 30ct", "brand": "Burnbrae Farms", "parent_corporation": "Burnbrae Farms Ltd.", "quantity": 1, "unit_price": 13.99, "total_price": 13.99 },
+      { "name": "Grape Tomatoes", "standardized_name": "Grape Tomatoes", "brand": "Fresh Produce", "parent_corporation": "Independent / Unmapped Agribusiness", "quantity": 1, "unit_price": 6.99, "total_price": 6.99 },
+      { "name": "Strip Loin Steak", "standardized_name": "Strip Loin Steak", "brand": "Fresh Meat", "parent_corporation": "Cargill, Inc.", "quantity": 1, "unit_price": 31.99, "total_price": 31.99 },
+      { "name": "2% Milk Jug 2L", "standardized_name": "2% Milk Jug", "brand": "Saputo", "parent_corporation": "Saputo Inc.", "ticker": "SAP.TO", "quantity": 1, "unit_price": 6.99, "total_price": 6.99 },
+      { "name": "Ambrosia Apples 3lb", "standardized_name": "Ambrosia Apples", "brand": "Fresh Produce", "parent_corporation": "Independent / Unmapped Agribusiness", "quantity": 1, "unit_price": 5.49, "total_price": 5.49 }
+    ]
+  },
+  {
+    "bill_id": "demo-utilities-2026-11",
+    "date": "2026-11-20",
+    "bill_type": "utility",
+    "merchant": { "name": "Household Power and Internet", "channel": "Utilities" },
+    "summary": { "subtotal": 80.00, "tax": 4.00, "total": 84.00 },
+    "items": [
+      { "name": "Electricity Usage", "standardized_name": "Electricity Usage", "brand": "Hydro One", "parent_corporation": "Hydro One Limited", "ticker": "H.TO", "quantity": 1, "unit_price": 35.00, "total_price": 35.00 },
+      { "name": "Electricity Delivery Charge", "standardized_name": "Electricity Delivery Charge", "brand": "Hydro One", "parent_corporation": "Hydro One Limited", "ticker": "H.TO", "quantity": 1, "unit_price": 12.00, "total_price": 12.00 },
+      { "name": "Home Internet Service", "standardized_name": "Home Internet Service", "brand": "Bell", "parent_corporation": "BCE Inc.", "ticker": "BCE.TO", "quantity": 1, "unit_price": 33.00, "total_price": 33.00 }
+    ]
+  }
+]
